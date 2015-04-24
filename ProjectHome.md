@@ -1,0 +1,1 @@
+This module can make user easier to parse small html content for extracting the interesting thing. Overall, it is easy to use, only to do is overwrite some methods.
